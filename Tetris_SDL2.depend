@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1682661382 source:d:\tetris_sdl2\main.cpp
+	"Tetris.h"
+	<bits/stdc++.h>
+
+1682662245 d:\tetris_sdl2\tetris.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"textbox.h"
+	"sound.h"
+
+1682661463 source:d:\tetris_sdl2\tetris.cpp
+	<bits/stdc++.h>
+	"Tetris.h"
+
+1681974223 source:d:\tetris_sdl2\textbox.cpp
+	"textbox.h"
+
+1682661205 d:\tetris_sdl2\textbox.h
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1681886398 d:\tetris_sdl2\sound.h
+	<SDL.h>
+	<SDL_mixer.h>
+
+1681886418 source:d:\tetris_sdl2\sound.cpp
+	"sound.h"
+	<bits/stdc++.h>
+
+1683164012 source:e:\ltnc-main\tetris_sdl2\main.cpp
+	"Tetris.h"
+	<bits/stdc++.h>
+
+1683164064 e:\ltnc-main\tetris_sdl2\tetris.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"textbox.h"
+	"sound.h"
+
+1682666057 e:\ltnc-main\tetris_sdl2\textbox.h
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1682666057 e:\ltnc-main\tetris_sdl2\sound.h
+	<SDL.h>
+	<SDL_mixer.h>
+
+1682666057 source:e:\ltnc-main\tetris_sdl2\sound.cpp
+	"sound.h"
+	<bits/stdc++.h>
+
+1683164833 source:e:\ltnc-main\tetris_sdl2\tetris.cpp
+	<bits/stdc++.h>
+	"Tetris.h"
+
+1682666057 source:e:\ltnc-main\tetris_sdl2\textbox.cpp
+	"textbox.h"
+
+1683475460 source:c:\users\admin\downloads\c++\tetris_sdl2\main.cpp
+	"Tetris.h"
+	<bits/stdc++.h>
+
+1683475460 c:\users\admin\downloads\c++\tetris_sdl2\tetris.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"textbox.h"
+	"sound.h"
+
+1683475460 c:\users\admin\downloads\c++\tetris_sdl2\textbox.h
+	<string>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1683475460 c:\users\admin\downloads\c++\tetris_sdl2\sound.h
+	<SDL.h>
+	<SDL_mixer.h>
+
+1683475460 source:c:\users\admin\downloads\c++\tetris_sdl2\sound.cpp
+	"sound.h"
+	<bits/stdc++.h>
+
+1683475460 source:c:\users\admin\downloads\c++\tetris_sdl2\tetris.cpp
+	<bits/stdc++.h>
+	"Tetris.h"
+
+1683475460 source:c:\users\admin\downloads\c++\tetris_sdl2\textbox.cpp
+	"textbox.h"
+
